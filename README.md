@@ -1,4 +1,4 @@
-Aprensento três Dashboards que podem ser perfeitamente adaptadas as necessidades de uma empresa:
+Apresento três Dashboards que podem ser perfeitamente adaptadas as necessidades de uma empresa:
 Os dados usados são fictícios, com o obejtivo apenas de exemplificar o funcionamentos das Dashboards. 
 
 1 - Dashboard de Produção: 
