@@ -1,3 +1,8 @@
+## DASHBOARD | RH | PRODUÇÃO | FINANCEIRO
+[<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://youtu.be/BAsVJnoCwbk)
+- [RH](https://x.gd/pCzwZ) | [PRODUÇÃO](https://x.gd/PqfzJ) | [FINANCEIRO](https://x.gd/aPLCn) 
+
+
 Apresento três Dashboards que podem ser perfeitamente adaptadas as necessidades de uma empresa:
 Os dados usados são fictícios, com o obejtivo apenas de exemplificar o funcionamentos das Dashboards. 
 
