@@ -1,7 +1,9 @@
 # DASHBOARD | RH | PRODUÇÃO | FINANCEIRO
 [<img src="https://i.ibb.co/tHYDfqT/dashboards-financeiro-rh-e-produ-o.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://youtu.be/BAsVJnoCwbk)
+[<img src="https://i.ibb.co/DVxk8JD/Vendas-por-produto.png" alt="dashboards-financeiro-rh-e-produ-o" border="0">](https://encurtador.com.br/g2O45)
+
 - [RH](https://x.gd/pCzwZ) | [PRODUÇÃO](https://x.gd/PqfzJ) | [FINANCEIRO](https://x.gd/aPLCn)
-- [Demonstração:](https://www.youtube.com/watch?v=BAsVJnoCwbk)
+- [VENDAS POR PRODUTO](https://encurtador.com.br/g2O45)
 
 ## Introdução
 Apresento três Dashboards que podem ser perfeitamente adaptadas as necessidades de uma empresa:
@@ -23,3 +25,7 @@ Link: https://x.gd/aPLCn
 Análise do número total de contratações ao longo dos meses, funcionários ativos e desligados, percentual de rotatividade (Turnover), funcionários ativos por cidade e gênero.
 Criei um visual no estilo árvore de hierárquia que permite detalhar os funcionários ativos por área e cargo.
 Link: https://x.gd/pCzwZ
+
+### VENDAS POR PRODUTO
+Análise de vendas de produto detalhando por mês, cidade e região.
+Link: https://encurtador.com.br/g2O45
